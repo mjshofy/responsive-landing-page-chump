@@ -6,3 +6,5 @@ Learn how to create a responsive website landing page using HTML CSS and a littl
 
 Thanks,
 [codermj](https://www.youtube.com/c/codermj)
+
+![preview](https://user-images.githubusercontent.com/76812554/111775635-33034600-88db-11eb-9e54-9c0fab414586.png)
